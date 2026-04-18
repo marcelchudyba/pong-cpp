@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "CMakeFiles\\Math_Graph.dir\\Ball.cpp.obj",
+            "outputs": [
+                "C:\\Projects\\Math Graph\\cmake-build-debug\\vc140.pdb",
+                "CMakeFiles\\Math_Graph.dir\\Ball.cpp.obj.ddi"
+            ],
+            "requires": []
+        }
+    ]
+}

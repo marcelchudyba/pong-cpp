@@ -1,0 +1,9 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles\Math_Graph.dir\main.cpp.obj: dyndep
+
+build CMakeFiles\Math_Graph.dir\Ball.cpp.obj: dyndep
+
+build CMakeFiles\Math_Graph.dir\Paddle.cpp.obj: dyndep
+
+build CMakeFiles\Math_Graph.dir\CpuPaddle.cpp.obj: dyndep
+

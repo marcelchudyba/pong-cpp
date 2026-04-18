@@ -1,0 +1,43 @@
+# ninja log v6
+4	108	7981548646318653	CMakeFiles/Math_Graph.dir/main.cpp.obj.ddi	84a17a668bd5e938
+142	1654	7981551551188852	Math_Graph.exe	3e65e24b9ad92798
+48	80	7981551550249223	CMakeFiles/Math_Graph.dir/CXX.dd	1ea32e4a69239a97
+48	80	7981551550249223	CMakeFiles/Math_Graph.dir/Ball.cpp.obj.modmap	1ea32e4a69239a97
+153	771	7981548647816187	CMakeFiles/Math_Graph.dir/main.cpp.obj	f69d6ba2304b1a6d
+48	80	7981551550249223	C:/Projects/Math Graph/cmake-build-debug/CMakeFiles/Math_Graph.dir/CXXModules.json	1ea32e4a69239a97
+48	80	7981551550249223	CMakeFiles/Math_Graph.dir/main.cpp.obj.modmap	1ea32e4a69239a97
+15	114	7981548646432196	CMakeFiles/Math_Graph.dir/Ball.cpp.obj.ddi	3681b6125a73c83
+164	767	7981548647931026	CMakeFiles/Math_Graph.dir/Ball.cpp.obj	fcf45b6b511bb7f
+2	179	7981552725161594	build.ninja	b37efbc68b1ff690
+3	47	7981551549796085	CMakeFiles/Math_Graph.dir/Paddle.cpp.obj.ddi	d3a5771c444035c4
+48	80	7981551550249223	CMakeFiles/Math_Graph.dir/Paddle.cpp.obj.modmap	1ea32e4a69239a97
+82	142	7981551550601374	CMakeFiles/Math_Graph.dir/Paddle.cpp.obj	2811a543b1498a9d
+57	490	7982017318054589	CMakeFiles/Math_Graph.dir/CpuPaddle.cpp.obj.ddi	dfa692ad62286dbd
+40	493	7982017317883360	CMakeFiles/Math_Graph.dir/Paddle.cpp.obj.ddi	d3a5771c444035c4
+3	462	7982017317827493	CMakeFiles/Math_Graph.dir/main.cpp.obj.ddi	84a17a668bd5e938
+20	493	7982017317677439	CMakeFiles/Math_Graph.dir/main.cpp.obj.ddi	84a17a668bd5e938
+25	462	7982017318042534	CMakeFiles/Math_Graph.dir/Paddle.cpp.obj.ddi	d3a5771c444035c4
+38	465	7982017318167426	CMakeFiles/Math_Graph.dir/CpuPaddle.cpp.obj.ddi	dfa692ad62286dbd
+493	565	7982017322413054	CMakeFiles/Math_Graph.dir/CXX.dd	badf99e831d2c3b7
+465	534	7982017322448265	C:/Projects/Math Graph/cmake-build-debug/CMakeFiles/Math_Graph.dir/CXXModules.json	badf99e831d2c3b7
+493	565	7982017322413054	C:/Projects/Math Graph/cmake-build-debug/CMakeFiles/Math_Graph.dir/CXXModules.json	badf99e831d2c3b7
+493	565	7982017322413054	CMakeFiles/Math_Graph.dir/main.cpp.obj.modmap	badf99e831d2c3b7
+493	565	7982017322413054	CMakeFiles/Math_Graph.dir/Ball.cpp.obj.modmap	badf99e831d2c3b7
+7
+493	565	7982017322413054	CMakeFiles/Math_Graph.dir/Paddle.cpp.obj.modmap	badf99e831d2c3b7
+b7
+493	565	7982017322413054	CMakeFiles/Math_Graph.dir/CpuPaddle.cpp.obj.modmap	badf99e831d2c3b7
+592	971	7982017323411387	CMakeFiles/Math_Graph.dir/CpuPaddle.cpp.obj	b550a395158da596
+556	946	7982017323355653	CMakeFiles/Math_Graph.dir/Paddle.cpp.obj	2811a543b1498a9d
+537	1278	7982017323171008	CMakeFiles/Math_Graph.dir/main.cpp.obj	f69d6ba2304b1a6d
+3	47	7982017474220280	CMakeFiles/Math_Graph.dir/CpuPaddle.cpp.obj.ddi	dfa692ad62286dbd
+47	84	7982017474663366	CMakeFiles/Math_Graph.dir/CXX.dd	badf99e831d2c3b7
+47	84	7982017474663366	C:/Projects/Math Graph/cmake-build-debug/CMakeFiles/Math_Graph.dir/CXXModules.json	badf99e831d2c3b7
+47	84	7982017474663366	CMakeFiles/Math_Graph.dir/main.cpp.obj.modmap	badf99e831d2c3b7
+47	84	7982017474663366	CMakeFiles/Math_Graph.dir/Ball.cpp.obj.modmap	badf99e831d2c3b7
+47	84	7982017474663366	CMakeFiles/Math_Graph.dir/Paddle.cpp.obj.modmap	badf99e831d2c3b7
+47	84	7982017474663366	CMakeFiles/Math_Graph.dir/CpuPaddle.cpp.obj.modmap	badf99e831d2c3b7
+106	160	7982017475260285	CMakeFiles/Math_Graph.dir/CpuPaddle.cpp.obj	b550a395158da596
+98	171	7982017475171830	CMakeFiles/Math_Graph.dir/Paddle.cpp.obj	2811a543b1498a9d
+86	472	7982017475046302	CMakeFiles/Math_Graph.dir/main.cpp.obj	f69d6ba2304b1a6d
+116	1184	7982017475350266	Math_Graph.exe	c2372c291ad3abbd
