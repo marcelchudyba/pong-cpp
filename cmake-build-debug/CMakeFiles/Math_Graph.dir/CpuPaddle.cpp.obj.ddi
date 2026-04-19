@@ -5,7 +5,7 @@
         {
             "primary-output": "CMakeFiles\\Math_Graph.dir\\CpuPaddle.cpp.obj",
             "outputs": [
-                "C:\\Projects\\Math Graph\\cmake-build-debug\\vc140.pdb",
+                "C:\\Projects\\pong-cpp\\cmake-build-debug\\vc140.pdb",
                 "CMakeFiles\\Math_Graph.dir\\CpuPaddle.cpp.obj.ddi"
             ],
             "requires": []

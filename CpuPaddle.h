@@ -7,10 +7,12 @@
 #include "Paddle.h"
 
 
-// class CpuPaddle : public Paddle{
-//
-// };
-//
+class CpuPaddle : public Paddle {
+public:
+    CpuPaddle(float x, float y, int width, int height, int speed);
+    void Update(float ball_y);
+
+};
 
 
 #endif //CPUPADDLE_H
