@@ -1,11 +1,12 @@
 #include <algorithm>
 #include <raylib.h>
-
+#include "GameState.h"
 #include "Ball.h"
 #include "CpuPaddle.h"
 #include "Paddle.h"
 
 using namespace std;
+
 struct Ball_Struct {
     float x;
     float y;
@@ -58,6 +59,8 @@ bool checkColCircleRec(Ball_Struct ball,Rec_Struct rec ){
 
 
 int main() {
+    GameState state;
+
 
     const int screen_width = 1280;
     const int screen_height = 800;
@@ -75,11 +78,9 @@ int main() {
         ClearBackground(BLACK);
         BeginDrawing();
 
-        ball.Update();
+        ball.Update(state);
         player.Update();
         cpu.Update(ball.y);
-
-
 
         if(checkColCircleRec(Ball_Struct(ball.x,ball.y,ball.radius),Rec_Struct(player.x,player.y,player.width,player.height))){
             ball.speed_x *= -1;
@@ -87,12 +88,17 @@ int main() {
         if(checkColCircleRec(Ball_Struct(ball.x,ball.y,ball.radius),Rec_Struct(cpu.x,cpu.y,cpu.width,cpu.height))){
             ball.speed_x *= -1;
         }
+
+        if(ball.x)
+
         DrawLine(screen_width / 2, 0, screen_width / 2,screen_height,WHITE);
 
+        //Drawing
         cpu.Draw();
         ball.Draw();
         player.Draw();
-
+        DrawText(TextFormat("%i", state.cpu_score),screen_width/4 -20,20,80,WHITE);
+        DrawText(TextFormat("%i", state.player_score),screen_width - screen_width/4 -20,20,80,WHITE);
         EndDrawing();
     }
 

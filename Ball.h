@@ -7,16 +7,19 @@
 #include <raylib.h>
 #include <vector>
 
+#include "GameState.h"
+
 
 class Ball {
 public:
+    float start_x, start_y;
     float x,y;
     int speed_x,speed_y;
     int radius;
     Ball(float x, float y, int speed_x, int speed_y, int radius);
     void Draw();
-    void Update();
-
+    void Update(GameState& state);
+    void Init();
 };
 
 
